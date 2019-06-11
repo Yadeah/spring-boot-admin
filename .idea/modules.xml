@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/version1/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/version1/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version1/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/version1/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version2/client-version1/client-version1.iml" filepath="$PROJECT_DIR$/version2/client-version1/client-version1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version2/client-version2/client-version2.iml" filepath="$PROJECT_DIR$/version2/client-version2/client-version2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version2/server-version2/server-version2.iml" filepath="$PROJECT_DIR$/version2/server-version2/server-version2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version1/version1.iml" filepath="$PROJECT_DIR$/version1/version1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version2/version2.iml" filepath="$PROJECT_DIR$/version2/version2.iml" />
+    </modules>
+  </component>
+</project>

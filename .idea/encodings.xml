@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/demo1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version1/admin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version1/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version1/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version1/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version2/client-version1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version2/client-version2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version2/server-version2" charset="UTF-8" />
+  </component>
+</project>

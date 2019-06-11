@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/version2/pom.xml" />
+        <option value="$PROJECT_DIR$/version2/server-version2/pom.xml" />
+        <option value="$PROJECT_DIR$/version2/client-version2/pom.xml" />
+        <option value="$PROJECT_DIR$/version2/client-version1/pom.xml" />
+        <option value="$PROJECT_DIR$/version/server/pom.xml" />
+        <option value="$PROJECT_DIR$/version1/server/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/version1/pom.xml" />
+        <option value="$PROJECT_DIR$/version1/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/version1/admin-client/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/version1/server/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
